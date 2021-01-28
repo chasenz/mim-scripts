@@ -12,3 +12,7 @@
 - [MAX+](https://github.com/chasenz/mim-scripts/tree/main/crawler/maxPlus/)
   
     根据 STEAM ID 反查 MAX+ 的用户信息
+
+- [ZhihuUserActivity](https://github.com/chasenz/mim-scripts/tree/main/crawler/zhihuUserActivity)
+
+    分析知乎用户在24小时为一周期的动态操作
