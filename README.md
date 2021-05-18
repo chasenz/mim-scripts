@@ -5,7 +5,10 @@
 
 ### algrotihm
 
+- [Bloom Filter](https://github.com/chasenz/mim-scripts/tree/main/algorithm/bloomfilter)
 
+    了解和使用布隆过滤器
+    
 ### crawler
 
 - [iKuaiCloud](https://github.com/chasenz/mim-scripts/tree/main/crawler/ikuaiCloud)
